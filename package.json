@@ -1,0 +1,19 @@
+{
+  "name": "base-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "fl": "^0.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
