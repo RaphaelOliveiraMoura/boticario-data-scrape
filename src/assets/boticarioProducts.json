@@ -105,14 +105,14 @@
     "price": "R$ 59,90R$ 47,90"
   },
   {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/196739-175-175/Capricho_Rock_Des_Colonia_50ml_76978_frontal.jpg?v=636846208297270000",
-    "name": "Capricho Rock Des. Colônia, 50ml",
-    "price": "R$ 59,90R$ 47,90"
-  },
-  {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/189236-175-175/Malbec-Play-Des-Colonia-50ml-frontal-71106.jpg?v=636360877201200000",
     "name": "Malbec Play Desodorante Colônia 50ml",
     "price": "R$ 85,90"
+  },
+  {
+    "image": "https://boticario.vteximg.com.br/arquivos/ids/196739-175-175/Capricho_Rock_Des_Colonia_50ml_76978_frontal.jpg?v=636846208297270000",
+    "name": "Capricho Rock Des. Colônia, 50ml",
+    "price": "R$ 59,90R$ 47,90"
   },
   {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/196738-175-175/Capricho_Sweet_Des_Colonia_50ml_76977.jpg?v=636846206671900000",
@@ -630,56 +630,6 @@
     "price": "R$ 162,60"
   },
   {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/195591-175-175/SOS-OLEO.jpg?v=636735598244130000",
-    "name": "Match SOS Reconstrução Óleo, 50ml",
-    "price": "R$ 59,90"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/192292-175-175/Combo_Match_Rotina_Tradicional_Cabelos_Cacheados_2018010113_frontal.jpg?v=636572500861570000",
-    "name": "Combo Match Rotina Tradicional Cabelos Cacheados",
-    "price": "R$ 206,50"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/191572-175-175/Nativa_SPA_Oleos_Indianos_Oleo_Capilar_50ml_72082_frontal.jpg?v=636487697166770000",
-    "name": "Nativa SPA Óleos Indianos Óleo Capilar, 50ml",
-    "price": "R$ 49,90"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/195575-175-175/Frizz_08.jpg?v=636735578847930000",
-    "name": "Match Patrulha do Frizz Sérum Capilar, 50ml",
-    "price": "R$ 49,90"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/182556-175-175/23768-men-pomada-modeladora.jpg?v=635745638589870000",
-    "name": "MEN Pomada Modeladora para Cabelos, 110g",
-    "price": "R$ 34,90"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/196697-175-175/Match_Respeito_aos_Lisos_Protetor_Termico_50ml_72522_frontal.jpg?v=636842932726330000",
-    "name": "Match Respeito aos Lisos Protetor Térmico, 50ml",
-    "price": "R$ 49,90"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/192289-175-175/Combo_Match_Respeito_aos_Cachos_2018010110_frontal.jpg?v=636572497064130000",
-    "name": "Combo Match Respeito aos Cachos",
-    "price": "R$ 161,60"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/196145-175-175/Combo_MEN_Cabelos_Shampoo_2_em_1_Pomada_Modeladora_201810BK13_frontal.jpg?v=636772123118970000",
-    "name": "Combo MEN Cabelos: Shampoo 2 em 1 + Pomada Modeladora",
-    "price": "R$ 59,80"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/192294-175-175/Combo_Match_Rotina_Tradicional_Cabelos_Crespos_2018010115_frontal.jpg?v=636572503333300000",
-    "name": "Combo Match Rotina Tradicional Cabelos Crespos",
-    "price": "R$ 206,50"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/196760-175-175/2019020305_frontal.jpg?v=636854952413100000",
-    "name": "Combo Match Respeito aos Lisos Manutenção: Shampoo + Condicionador + Máscara + Protetor Térmico",
-    "price": "R$ 162,60"
-  },
-  {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/189681-175-175/Combo-Match-Crescer-Cabelo-frontal-2017081202.jpg?v=636380403421270000",
     "name": "Combo Match Crescer Cabelo",
     "price": "R$ 142,70"
@@ -1090,6 +1040,11 @@
     "price": "R$ 49,90"
   },
   {
+    "image": "https://boticario.vteximg.com.br/arquivos/ids/194969-175-175/Make_B_Hidratante_Multiprotetor_Tonalizante_Diurno_Skin_60g_71006_frontal.jpg?v=636707041448500000",
+    "name": "Make B. Hidratante Multiprotetor Tonalizante Diurno Skin 60g",
+    "price": "R$ 77,90R$ 61,90"
+  },
+  {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/194126-175-175/Malbec_Creme_Hidratante_Multifuncional_50ml_73804_frontal.jpg?v=636652763734570000",
     "name": "Malbec Club Creme Hidratante Facial Anti-Idade 50ml",
     "price": "R$ 79,90R$ 63,90"
@@ -1098,11 +1053,6 @@
     "image": "https://boticario.vteximg.com.br/arquivos/ids/184743-175-175/Men-Hidratante-Protetor-Multi-6-em-1-48ml-23764.jpg?v=635985909093500000",
     "name": "Men Hidratante Facial Protetor Multi 6 em 1, 48ml",
     "price": "R$ 62,90"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/194969-175-175/Make_B_Hidratante_Multiprotetor_Tonalizante_Diurno_Skin_60g_71006_frontal.jpg?v=636707041448500000",
-    "name": "Make B. Hidratante Multiprotetor Tonalizante Diurno Skin 60g",
-    "price": "R$ 77,90R$ 61,90"
   },
   {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/196133-175-175/Combo_Cuide-Se_Bem_Rosa_E_Algodao_Locao_Hidratante_Corporal_400_Ml_Refil_2018101710_frontal.jpg?v=636772020543500000",
@@ -1290,6 +1240,11 @@
     "price": "R$ 49,90R$ 39,90"
   },
   {
+    "image": "https://boticario.vteximg.com.br/arquivos/ids/190873-175-175/Kit_Presente_de_Natal_My_Lily_71571_frontal.jpg?v=636449704467930000",
+    "name": "Kit Presente My Lily",
+    "price": "R$ 245,70R$ 184,27"
+  },
+  {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/189027-175-175/capinha-silicone-glitter-42224.jpg?v=636341786632600000",
     "name": "Capinha Glitter Dourado em Silicone",
     "price": "R$ 12,90R$ 9,90"
@@ -1325,11 +1280,6 @@
     "price": "R$ 12,90R$ 9,90"
   },
   {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/189024-175-175/capinha-silicone-amarela-leite-mel-42112.jpg?v=636341784672670000",
-    "name": "Capinha Abelinha em Silicone",
-    "price": "R$ 12,90R$ 9,90"
-  },
-  {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/181526-175-175/40080-esponja-colorida.jpg?v=635645249279670000",
     "name": "Nativa SPA Esponja Colorida",
     "price": "R$ 21,90"
@@ -1358,6 +1308,11 @@
     "image": "https://boticario.vteximg.com.br/arquivos/ids/197115-175-175/brinde_boti.jpg?v=636892097539530000",
     "name": "Caixa Presenteável P",
     "price": "R$ 9,90"
+  },
+  {
+    "image": "https://boticario.vteximg.com.br/arquivos/ids/190873-175-175/Kit_Presente_de_Natal_My_Lily_71571_frontal.jpg?v=636449704467930000",
+    "name": "Kit Presente My Lily",
+    "price": "R$ 245,70R$ 184,27"
   },
   {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/197116-175-175/brinde_boti.jpg?v=636892097622300000",
@@ -1398,11 +1353,6 @@
     "image": "https://boticario.vteximg.com.br/arquivos/ids/197056-175-175/76048_frontal.jpg?v=636888681068530000",
     "name": "Kit Presente Dream Espelho Secreto Mães",
     "price": "R$ 84,90"
-  },
-  {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/192824-175-175/Estojo-Anni-Maes-2018.jpg?v=636589779710030000",
-    "name": "Kit Presente Anni",
-    "price": "Indisponível"
   },
   {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/195817-175-175/Tapetinho_Limpa_Pinceis_41981_frontal.jpg?v=636743512350630000",
@@ -1475,14 +1425,14 @@
     "price": "R$ 18,90R$ 14,90"
   },
   {
-    "image": "https://boticario.vteximg.com.br/arquivos/ids/166896-175-175/14773-spulokis-sabonete-em-barra.jpg?v=635151892433270000",
-    "name": "Spulókis Sabonete Suave em Barra, 80g",
-    "price": "R$ 11,90"
-  },
-  {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/194093-175-175/Boti_Baby_Locao_Hidratante_de_Banho_e_Pos_Banho_150g_70692_frontal.jpg?v=636652739974200000",
     "name": "Boti Baby Loção Hidratante de Banho e Pós Banho 150g",
     "price": "R$ 36,90"
+  },
+  {
+    "image": "https://boticario.vteximg.com.br/arquivos/ids/166896-175-175/14773-spulokis-sabonete-em-barra.jpg?v=635151892433270000",
+    "name": "Spulókis Sabonete Suave em Barra, 80g",
+    "price": "R$ 11,90"
   },
   {
     "image": "https://boticario.vteximg.com.br/arquivos/ids/195828-175-175/Sabonete_Capricho_SuperPoderes.jpg?v=636743516745100000",
